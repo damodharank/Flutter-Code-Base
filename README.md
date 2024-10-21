@@ -1,6 +1,6 @@
 # Flutter Mobile App - Basic Get Started App with GetX
 
-A new Flutter project.  
+If you are new to flutter?? . Strugle to setup a project with basic feature ?? to getstart this repos is the best choise to get start your project 
 
 ********************* Ubder Development But Ready To use *********************
 
