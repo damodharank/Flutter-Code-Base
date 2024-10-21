@@ -1,14 +1,16 @@
-# Flutter-Code-Base
-Flutter Application for beginners those want to star the application development  with the basic essential files  Theme Mode Language Options
+# tupmob
 
-*********Incomplete Project work in Prgoress **********
+A new Flutter project.
 
+## Getting Started
 
-Ready to use basic features 
+This project is a starting point for a Flutter application.
 
-Theme 
-Dark and Light Thme 
+A few resources to get you started if this is your first Flutter project:
 
-Language : English Arabic 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-API : Graphql 
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

@@ -1,0 +1,70 @@
+name: TUPmob
+description: "Application For Tup."
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.8
+  flutter_secure_storage: ^9.2.2
+  jwt_decoder: ^2.0.1
+  get: ^4.6.6
+  lottie: ^3.1.3
+  graphql_flutter: ^5.2.0-beta.7
+  logger: ^2.4.0
+  flutter_screenutil: ^5.9.3
+  shared_preferences: ^2.3.2
+  awesome_notifications: ^0.10.0
+  flutter_launcher_icons: ^0.14.1
+  change_app_package_name: ^1.4.0
+  rename_app: ^1.6.1
+  flutter_svg: ^2.0.10+1
+  simple_animations: ^5.0.2
+  flutter_dotenv: ^5.2.1
+  intl_phone_field: ^3.2.0
+
+dev_dependencies:
+  integration_test:
+    sdk: flutter
+
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo.png"
+
+  flutter_lints: ^4.0.0
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+    - assets/images/
+    - assets/files/
+    - .env
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/RobotoMedium.ttf
+          weight: 500
+        - asset: assets/fonts/RobotoBold.ttf
+          weight: 700
+        - asset: assets/fonts/RobotoRegular.ttf
+          weight: 400
+        - asset: assets/fonts/RobotoLight.ttf
+          weight: 300
+
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/to/font-from-package
