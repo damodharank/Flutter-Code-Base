@@ -1,16 +1,19 @@
-# tupmob
+# Flutter Mobile App - Basic Get Started App with GetX
 
-A new Flutter project.
+A new Flutter project.  
+
+********************* Ubder Development But Ready To use *********************
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Completed Deatures 
 
-A few resources to get you started if this is your first Flutter project:
+1) Proper Folder Structure
+2) Getx State management 
+3) Routing - Navigation
+4) Language Option
+5) Theme Light and Dark Mode
+6) GraphQL implementaion - Work In progress
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Any Clarifcation required Please write email to me 
+   
