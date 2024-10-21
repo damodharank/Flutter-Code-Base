@@ -1,19 +1,17 @@
-# Flutter Mobile App - Basic Get Started App with GetX
 
-If you are new to flutter?? . Strugle to setup a project with basic feature ?? to getstart this repos is the best choise to get start your project 
+**Flutter Mobile App - Basic Starter with GetX**
 
-********************* Ubder Development But Ready To use *********************
+Are you new to Flutter and struggling to set up a project with essential features? This repository is the perfect starting point for your project!
 
-## Getting Started
+🚧 Under Development but Ready to Use 🚧
 
-Completed Deatures 
+Getting Started
+Completed Features:
+Proper Folder Structure
+GetX State Management
+Routing & Navigation
+Multi-language Support
+Light and Dark Theme Options
+GraphQL Integration (In Progress)
+If you have any questions or need further clarification, feel free to reach out via email.
 
-1) Proper Folder Structure
-2) Getx State management 
-3) Routing - Navigation
-4) Language Option
-5) Theme Light and Dark Mode
-6) GraphQL implementaion - Work In progress
-
-Any Clarifcation required Please write email to me 
-   
